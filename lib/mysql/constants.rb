@@ -124,6 +124,7 @@ class Mysql
     TYPE_NEWDATE     = 14
     TYPE_VARCHAR     = 15
     TYPE_BIT         = 16
+    TYPE_JSON        = 245
     TYPE_NEWDECIMAL  = 246
     TYPE_ENUM        = 247
     TYPE_SET         = 248
